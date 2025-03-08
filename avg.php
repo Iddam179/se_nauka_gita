@@ -5,6 +5,6 @@ function srednia_zwykla (a, b){
 }
 
 function srednia_wazona (a, b) {
-	return (0.9*a+0.1*b)/2
+	return (0.2*a+0.8*b)/2
 }
 ?>
